@@ -6,5 +6,5 @@
 
 ![scy0723's GitHub stats](https://github-readme-stats.vercel.app/api?username=scy0723&nclude_all_commits=true&count_private=true&show_icons=true&theme=radical)
 ## Get in touch
-<img alt="Gmail" src ="https://img.shields.io/badge/scy0723123@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/> <img alt="INS" src ="https://img.shields.io/badge/tlscodud_723-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/> 
-<a href = "www.linkedin.com/in/chaeyoungshin"> <img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
+<img alt="Gmail" src ="https://img.shields.io/badge/scy0723123@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/> <img alt="INS" src ="https://img.shields.io/badge/tlscodud_723-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/> <a href = "www.linkedin.com/in/chaeyoungshin"> <img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></a>
