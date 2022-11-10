@@ -4,9 +4,9 @@
 </a> <a href = "https://42seoul.kr/seoul42/main/view"> <img alt="42Seoul" src ="https://img.shields.io/badge/42Seoul-000000.svg?&style=flat-square&logo=42&logoColor=white"/></a>
 </a> <a href = "https://sites.google.com/view/gdeveloperskorea/gdsc"> <img alt="GDSC" src ="https://img.shields.io/badge/GDSC-4285F4.svg?&style=flat-square&logo=Google&logoColor=white"/></a>
 
-    Hi there!👋🏻
-    - 🏫 I'm majoring in Software at Hanyang University
-    - 🌱 I’m currently learning to develop server using Node.js!
+Hi there!👋🏻
+- 🏫 I'm majoring in Software at Hanyang University
+- 🌱 I’m currently learning to develop server using Node.js!
 
 ## 📕 Stats
 ![scy0723's GitHub stats](https://github-readme-stats.vercel.app/api?username=scy0723&nclude_all_commits=true&count_private=true&show_icons=true&theme=radical)
