@@ -4,9 +4,12 @@
 </a> <a href = "https://42seoul.kr/seoul42/main/view"> <img alt="42Seoul" src ="https://img.shields.io/badge/42Seoul-000000.svg?&style=flat-square&logo=42&logoColor=white"/></a>
 </a> <a href = "https://sites.google.com/view/gdeveloperskorea/gdsc"> <img alt="GDSC" src ="https://img.shields.io/badge/GDSC-4285F4.svg?&style=flat-square&logo=Google&logoColor=white"/></a>
 
-Hi there!👋🏻
-- 🏫 I'm majoring in Software at Hanyang University
-- 🌱 I’m currently learning to develop server using Node.js!
+## 👩🏻‍💻 Tech Stack
+<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></span>
 
 ## 📕 Stats
 ![scy0723's GitHub stats](https://github-readme-stats.vercel.app/api?username=scy0723&nclude_all_commits=true&count_private=true&show_icons=true&theme=radical)
